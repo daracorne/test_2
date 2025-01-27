@@ -5,5 +5,3 @@ int main()
     printf("hello world!\n");
     putchar('\n');
 };
-
-// hello boy
